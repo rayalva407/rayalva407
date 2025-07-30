@@ -20,7 +20,7 @@ Some of my favorite technologies include:
 
 "The Nature of Code" by Daniel Shiffman. A great book if you want to learn how to simulate natural systems through code. It is an exploration of the intersection between coding and the natural world.
 
-Thank you for visiting my profile and I hope you find some value in anything you find here. Ok bye.
+Thank you for visiting my profile and I hope you find some value in anything you find here.
 
 
 <!--
